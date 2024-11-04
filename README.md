@@ -1,5 +1,5 @@
 # Selenium-TestNG-Project2
-Crafted E2E scenario based testing validations on script enabling login to checkout flow. <br>
+Crafted E2E scenario based test scripting on a practice static e-commerce website login to checkout flow. <br>
 Site used as reference : https://rahulshettyacademy.com/client. The scripting involved : <br>
 1. Validating logging to site
 2. Adding a particular product to cart
