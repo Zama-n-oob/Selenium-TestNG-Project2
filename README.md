@@ -1,6 +1,6 @@
 # Selenium-TestNG-Project2
 Crafted E2E scenario based testing validations on script enabling login to checkout flow. The scripting involved : <br>
-1. Logging to site
+1. Validating logging to site
 2. Adding a particular product to cart
 3. Validating the product name using Java stream methods for iteration over List of web elements
 4. Handling complex UI components using different synchronization techniques (Implicit wait, Explicit wait, Sleep)
